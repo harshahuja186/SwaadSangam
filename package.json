@@ -1,0 +1,11 @@
+{
+  "name": "swaadsangam",
+  "version": "1.0.0",
+  "description": "Building Food Ordering App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Harsh Ahuja",
+  "license": "ISC"
+}
